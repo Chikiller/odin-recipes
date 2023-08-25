@@ -1,0 +1,26 @@
+* {
+    font-family:sans-serif;
+}
+
+.header {
+    font-size: 50px;
+    text-align: center;
+    background-color: grey;
+}
+
+.description {
+    font-size:24px;
+    text-align: left;
+    background-color: beige;
+}
+
+.instructions {
+    text-transform: uppercase;
+
+}
+
+ul, 
+ol {
+    font-size: 18px;
+    background-color: rgb(132, 236, 243);
+}
